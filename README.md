@@ -1,4 +1,4 @@
-:🧠 Comprehensive Experiment Overview
+🧠 Comprehensive Experiment Overview
 
 This experiment investigates fairness and ethical evaluation in a binary income classification task using the Adult Census Dataset. The focus is on detecting and quantifying potential gender bias in machine learning predictions. Through preprocessing, model training, and fairness assessment, the study explores how algorithmic outcomes can unintentionally favor or disadvantage specific demographic groups.
 
